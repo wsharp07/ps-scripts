@@ -1,2 +1,2 @@
-# ps-scripts
-Collection of useful powershell scripts
+# Powershell Scripts
+### Collection of useful powershell scripts
